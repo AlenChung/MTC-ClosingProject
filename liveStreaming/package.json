@@ -1,0 +1,15 @@
+{
+  "name": "socketChat",
+  "version": "0.1.0",
+  "description": "pi_livestreaming\r ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4",
+    "azure-storage":"^1.3.1"
+  }
